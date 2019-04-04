@@ -14,7 +14,7 @@ Modern inexpensive imaging sensors suffer from inherent hardware constraints whi
 
 * [Paper](https://arxiv.org/abs/1811.12197)
 * [Supplementary Material](/assets/supp.pdf)
-* Code (To be published soon)
+* [Code and Data](https://github.com/cig-skoltech/burst-cvpr-2019)
 
 ### BibTex
 
