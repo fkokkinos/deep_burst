@@ -19,11 +19,13 @@ Modern inexpensive imaging sensors suffer from inherent hardware constraints whi
 ### BibTex
 
 ```tex
-@article{1811.12197,
-         Author = {Filippos Kokkinos and Stamatios Lefkimmiatis},
-         Title = {Iterative Residual CNNs for Burst Photography Applications},
-         Year = {2018},
-         Eprint = {arXiv:1811.12197},
+
+@InProceedings{Kokkinos_2019_CVPR,
+               author = {Filippos, Kokkinos and Stamatios, Lefkimmiatis},
+               title = {Iterative Residual CNNs for Burst Photography Applications},
+               booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+               month = {June},
+               year = {2019}
 }
 ```
 
